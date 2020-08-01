@@ -2,7 +2,7 @@
 
 ## Experienced mechanical engineer entrepreneur and technical teacher.  
 
-    🔭 I’m currently working on GuitarDesignChallenge! Whitepaper at: [antedoroguitars.it] (http://bit.ly/2ysjLGB)
+    🔭 I’m currently working on GuitarDesignChallenge! Whitepaper at: [antedoroguitars.it] 
     🌱 I’m currently learning everything 🤣 
     👯 I’m looking to collaborate with other content creators
     🥅 2020 Goals: Contribute more to Open Source projects
