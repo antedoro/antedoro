@@ -1,7 +1,8 @@
-Hi there, I'm Vincenzo Antedoro - aka antedoro 👋
-Experienced mechanical engineer entrepreneur and technical teacher.  
+## Hi there, I'm Vincenzo Antedoro - aka antedoro 👋
 
-    🔭 I’m currently working on GuitarDesignChallenge! Whitepaper at: http://bit.ly/2ysjLGB
+## Experienced mechanical engineer entrepreneur and technical teacher.  
+
+    🔭 I’m currently working on GuitarDesignChallenge! Whitepaper at: [antedoroguitars.it] (http://bit.ly/2ysjLGB)
     🌱 I’m currently learning everything 🤣
     👯 I’m looking to collaborate with other content creators
     🥅 2020 Goals: Contribute more to Open Source projects
