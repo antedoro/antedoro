@@ -51,12 +51,10 @@
 
 ---
 
-
 <img align="left" alt="antedoro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=antedoro&show_icons=true&hide_border=true" />
 
-
-
 [website]: https://antedoro.it
+[YouTube]: https://www.youtube.com/c/VincenzoAntedoro
 [LinkedIn]: https://www.linkedin.com/in/antedoro/
 [Instagram]: https://www.instagram.com/antedoro/
 [Twitter]: https://twitter.com/antedoro
