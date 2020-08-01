@@ -20,8 +20,6 @@
 
 ### Languages and Tools:
 
-
-<br />
 <br />
 
 ---
