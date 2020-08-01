@@ -3,7 +3,7 @@
 ## Experienced mechanical engineer entrepreneur and technical teacher.  
 
     🔭 I’m currently working on GuitarDesignChallenge! Whitepaper at: [antedoroguitars.it] (http://bit.ly/2ysjLGB)
-    🌱 I’m currently learning everything 🤣 [Fusion 360 | Il comando Extrude](https://www.youtube.com/watch?v=J6KmDYe2HQw)
+    🌱 I’m currently learning everything 🤣 
     👯 I’m looking to collaborate with other content creators
     🥅 2020 Goals: Contribute more to Open Source projects
     ⚡ Fun fact: I love to draw and play guitar 
@@ -51,3 +51,4 @@
 [LinkedIn]: https://www.linkedin.com/in/antedoro/
 [Instagram]: https://www.instagram.com/antedoro/
 [Twitter]: https://twitter.com/antedoro
+[antedoroguitars.it]: https://antedoroguitars.it
