@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fusion 360 | Filettatura modeled e filettatura cosmetica](https://antedoro.it/2020/07/fusion-360-filettatura-modeled-e-filettatura-cosmetica.html/)
-- [Fusion 360 | Il comando Extrude](https://antedoro.it/2020/07/fusion-360-il-comando-extrude.html/)
-- [Fusion 360 | Messa in tavola 2D](https://antedoro.it/2020/07/fusion-360-messa-in-tavola.html/)
-- [Fusion 360 | Modelliamo un vaso di burro di noccioline](https://antedoro.it/2020/06/fusion-360-modelliamo-un-vaso-di-burro-di-noccioline.html/)
-- [Solidworks | Personalizziamo l’interfaccia](https://antedoro.it/2020/06/solidworks-personalizziamo-lnterfaccia.html/)
+- [Fusion 360 | Filettatura modeled e filettatura cosmetica](https://antedoro.it/2020/07/fusion-360-filettatura-modeled-e-filettatura-cosmetica/)
+- [Fusion 360 | Il comando Extrude](https://antedoro.it/2020/07/fusion-360-il-comando-extrude/)
+- [Fusion 360 | Messa in tavola 2D](https://antedoro.it/2020/07/fusion-360-messa-in-tavola/)
+- [Fusion 360 | Modelliamo un vaso di burro di noccioline](https://antedoro.it/2020/06/fusion-360-modelliamo-un-vaso-di-burro-di-noccioline/)
+- [Solidworks | Personalizziamo l’interfaccia](https://antedoro.it/2020/06/solidworks-personalizziamo-lnterfaccia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
