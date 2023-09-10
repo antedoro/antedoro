@@ -26,6 +26,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Come ho creato il mio blog con HUGO - Arberia Theme for Hugo SSG](https://youtu.be/ctTVTFgh9AA?si=aWP7Gp8lBzP0NAJE)
+- [Prova di Meccanica 2023 ITIS - Disegno, Progettazione ed Organizzazione Industriale](https://youtu.be/S6FDpAM_yOk?si=UV_JqNuz8436YmRm)
 - [Fusion 360 | Allenati con Fusion 360](https://www.youtube.com/watch?v=wOqBs1fBHxU)
 - [Fusion 360 | Filettature modeled e/o cosmetiche](https://www.youtube.com/watch?v=aQgO54qwImo)
 - [Fusion 360 | Il comando Extrude](https://www.youtube.com/watch?v=J6KmDYe2HQw)
